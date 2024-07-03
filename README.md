@@ -1,10 +1,6 @@
-# my_place
+# My_Place
 
-A new Flutter project.
-
-# Flutter App
-
-This is a Flutter application. Follow the steps below to clone the repository, update all packages, and run the app.
+A project to list renting places. Follow the steps below to clone the repository, update all packages, and run the app.
 
 ## 🖥️ Prerequisites 
 
